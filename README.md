@@ -1,12 +1,12 @@
-Workflow UI
+# Workflow UI
 ==============
 
-Libraries:
+### Libraries:
 - visjs
 - reactjs
 - electron-boileplate
 
-=== installation ===
+### installation
 
 1. Webpack
 ```sh
